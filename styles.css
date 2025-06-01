@@ -42,14 +42,12 @@ main {
   margin: 40px auto;
   background-color: white;
   color: black;
-  border-radius: 8px;
 }
 
 main h2 {
   font-size: 1.8em;
   margin-top: 40px;
   color: black;
-  border-bottom: 2px solid lightgray;
   padding-bottom: 8px;
 }
 
