@@ -1,1 +1,58 @@
+/* styles.css */
+
+/* Global styles */
+body {
+  margin: 0;
+  font-family: 'Courier New', monospace;
+  background-color: black;
+  color: white;
+}
+
+/* header section */
+header {
+  background-color: limegreen;
+  color: black:
+  padding: 60px 20px 30px;
+  box-shadow: 0 4px 10px rgba(50, 205, 50, 0.4);
+}
+
+header h1 {
+  font-size: 3.5em;
+  margin: 0;
+}
+
+header h2 {
+  font-size: 1.8em;
+  font-weight: normal;
+  margin-top: 10px;
+}
+
+/* Main content area */
+main {
+  padding: 40px 20px;
+  max-width: 900px;
+  margin: auto;
+  text-align: left;
+  background-color: dimgray;
+  color: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 12px rgba(0, 255, 0, 0.2);
+}
+
+a {
+  color: limegreen;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+li {
+  margin-bottom: 10px;
+}
 
